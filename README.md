@@ -1,6 +1,8 @@
 # Home Access Center Grade Checker
-Easily get json object of your grades if your school uses home access center.
+Easily get a dictionary object of your grades if your school uses home access center.
 
+<h3>Pre-req's</h3>
+<a href="https://pypi.org/project/beautifulsoup4/">Beautiful soup</a>
 <h3>How to use</h3>
 <p>Drag <code>gradecheck.py</code> into the root of your program directory, then use <code>from gradecheck import grades</code>. Create a <code>grade</code> object like so:</p>
 
